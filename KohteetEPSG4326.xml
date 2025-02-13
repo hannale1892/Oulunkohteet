@@ -10177,7 +10177,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>627135934</Id>
 			<Name>Hotelli Pohjankievari</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>244</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.50960875930742</X>
 				<Y>64.92977771577364</Y>
@@ -10192,7 +10192,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>627134971</Id>
 			<Name>Forenom Aparthotel Kempele</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>244</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.542064823147182</X>
 				<Y>64.90224952338612</Y>
