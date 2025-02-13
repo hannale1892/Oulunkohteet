@@ -9814,7 +9814,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>405931302</Id>
 			<Name>Wanha Tylli, Muhos</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>494</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.964241444028676</X>
 				<Y>64.82908000160117</Y>
@@ -9843,7 +9843,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>627136437</Id>
 			<Name>Asuntohotelli Kievarinhovi</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>244</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.510441591011812</X>
 				<Y>64.93036705789625</Y>
@@ -9955,7 +9955,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>105931657</Id>
 			<Name>Koivuhaka, Haukipudas</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>84</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.32506121524789</X>
 				<Y>65.2435738600296</Y>
@@ -10115,7 +10115,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>405169730</Id>
 			<Name>Airport Hotel Oulu</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>244</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.45005812556409</X>
 				<Y>64.9441490562305</Y>
@@ -10128,7 +10128,7 @@
 			<Category>Hotellit ja majoitus</Category>
 			<Id>405171236</Id>
 			<Name>Hotelli-Ravintola Liminganlahti, Liminka</Name>
-			<MunicipalityCode>564</MunicipalityCode>
+			<MunicipalityCode>425</MunicipalityCode>
 			<Geometry Type="Point">
 				<X>25.31117976307611</X>
 				<Y>64.82417050584472</Y>
